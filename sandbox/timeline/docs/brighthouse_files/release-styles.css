@@ -1,0 +1,228 @@
+@charset "UTF-8";
+/* CSS Document */
+
+/* RESET */
+
+body, div, dl, dt, dd, pre, form, fieldset, input, textarea,/*p*/, blockquote, th, td {
+ padding: 0;
+ margin: 0;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+fieldset, img {
+	border: 0;
+}
+address, caption, cite, code, dfn, em, strong, th, var {
+/*font-style: normal;*/
+	}
+caption, th {
+	text-align: left;
+}
+h1, h2, h3, h4, h5, h6 {
+	/*font-weight: normal;*/
+	font-size: 100%;
+}
+/*q:before,q:after {
+	content:'';
+	}*/
+abbr, acronym {
+	border: 0;
+}
+/* Div Float Clear */
+.clearfix:after {
+	content: ".";
+	display: block;
+	clear: both;
+	visibility: hidden;
+	line-height: 0;
+	height: 0;
+}
+.clearfix {
+	display: inline-block;
+}
+html[xmlns] .clearfix {
+	display: block;
+}
+* html .clearfix {
+	height: 1%;
+}
+html {
+	font-size: 100%;
+}
+body.releasepage {
+	font-size:.75em;
+	font-family: Arial, Helvetica, sans-serif;
+	 background:#f7f4ef;
+	line-height:15px;
+	min-width: 960px;
+}
+a,.moreInfo a {
+	outline: none;
+	color:#003399;
+	text-decoration: none;
+}
+a:link,.moreInfo a:link {
+	font-family: Arial, Helvetica, sans-serif;
+	color: #0044ac;
+	text-decoration: none;
+}
+a:hover,.moreInfo a:hover {
+	color: #CC0000;
+	text-decoration: underline;
+}
+a:active,.moreInfo a:active {
+	color: #0044ac;
+	text-decoration: none;
+}
+a:visited,.moreInfo a:visited {
+ 	color:#003399;
+ text-decoration: none;
+}
+
+small {
+	font-size:.75em;
+	color:#666;
+	font-weight:normal;
+}
+
+
+.subpage p {
+	margin:0px;
+	padding:4px 0px;
+}
+.container {
+	width:960px;
+	margin-left:auto;
+	margin-right:auto;
+	background:#fff;
+
+}
+.one, .two, .three, .four, .five {
+	float:left;
+}
+
+
+/* EXTRAS */
+.textAlignL {
+	text-align:left;
+}
+.textAlignR {
+	text-align:right;
+}
+.textAlignC {
+	text-align:center;
+}
+.borderBottom {
+	border-bottom:1px solid #dcdcdc;
+}
+.takeAction {
+	margin:25px 0px 15px 0px;
+}
+.noBorder {
+	border:none;
+}
+.noPad {
+	padding:0px;
+}
+
+
+.Red12px{color:#900;}
+
+
+/* RELEASE TEMPLATE */
+.releasepage .container .release{ 
+padding:0px 15px;
+margin:0 0 0 0; }
+.release .content { width:625px;}
+.dottedTop{border-top:1px dotted #8d8b88;}
+.release .side {width:281px; margin:0px 0px 0px 20px; border:1px solid #b2b2b2; background:#fff;}
+p.releaseDateline{ font-size:1.2em; padding-top:10px; margin-bottom: 1em;}
+.fullWidth {width: 100%;}
+.releaseTools{ padding:0px 0px; border-bottom:1px dotted #8d8b88; margin-bottom:10px;}
+.releaseTools ul{ margin:0; padding:5px 0px; list-style:none; }
+
+.releaseToolsHeader{margin:5px 0px;}
+.releaseToolsHeader img{vertical-align:bottom;}
+.releaseToolsHeader ul{ margin:0px; padding:0px; list-style:none;}
+.releaseToolsHeader ul li{ padding:0px; margin:10px 0px;background: transparent;}
+.releaseToolsHeader ul li span{ padding:0px 0px 0px 10px;}
+.releaseToolsHeader a {padding-right:6px!important;padding-left:6px!important;}
+
+.releaseSMFooter {float:right;}
+
+.releasepage h1.title { font-size:1.9em; padding:15px 0px 0px 0px; margin:0px;line-height:27px;font-weight:bold;}
+.releasepage h2.subtitle { font-size:1.4em; font-weight:normal; padding:5px 0px 15px 0px; margin:0px;line-height:20px}
+.mediaBox{display:inline; float:right; width:330px;}
+.newsImage { margin-left: auto; margin-right:auto}
+.podcast{background:#f5f4f4; padding:10px;}
+.podcast h3{ color:#666; margin:0; padding:0px 0px 10px 0px;}
+.podcast ul{ margin:0; padding:0; list-style:none;}
+.podcast ul li{float:left;}
+.podcast ul li a { margin:0px 0px 0px 5px;}
+.podcastDownload{ margin:0px 0px 0px 15px;}
+.video{margin:0px 0px; padding:10px; background:url(/images/release-bg-video.gif) top left no-repeat;}
+.image{margin:10px 0px; padding:10px;}
+.nismall {height:195px;margin:10px 0px;  padding:10px; background:url(/images/release-bg-small-image.gif) top left no-repeat;text-align:center;line-height: 175px;text-align: center;}
+.ninormal {height:320px;margin:10px 0px; padding:10px ;background:url(/images/release-bg-image.gif)       top left no-repeat;text-align:center;line-height:300px;}
+.nilarge {height:320px;margin:10px 0px;  padding:10px; background:url(/images/release-bg-image.gif)       top left no-repeat;text-align:center;line-height:300px;}
+
+.nismall img,.ninormal img,.nilarge img{display: inline;vertical-align: middle;}
+.nilarge img {max-width:300px;max-height:300px}
+#shareThisSpan img,#pdfspan img,#printspan img{width:13px;height:13px;padding-right:3px}
+.image ul{ margin:0; padding:0; list-style:none;}
+.image ul li{float:left; margin:10px 0px 0px 0px;}
+.release .releaseQuote{ font-size:1.4em; color:#999; padding:0px 20px 20px 20px; width:260px;line-height:20px;}
+.release .releaseQuote a,.release .releaseQuote a:hover,.release .releaseQuote a:visited{text-decoration:none;color:#999}
+.social{margin:10px 0px; padding:0px; border-top:1px dotted #b8b8b8; border-bottom:1px dotted #b8b8b8; list-style:none;}
+.social li{ float:left; padding:5px 10px 5px 0px;}
+.releaseLinks{ margin:10px 0px; padding:0px; list-style:none;}
+.releaseLinks li{ float:left; padding:5px 10px 5px 0px;}
+.comments{ background:url(../img/bg-releaseTop.gif) top left no-repeat;}
+.comments h3{color:#949494; font-size:1.3em; font-weight:normal; margin:0px; padding:5px;}
+.comments h4{border-bottom:1px dotted #ccc;}
+.comments textarea{ width:625px; height:100px;}
+.comments .pagination {}
+.comments .pagination ul{ margin:0px; padding:0px;}
+.comments .pagination li{ color:#000; list-style:none;}
+.comments .pagination li a{ text-decoration:none; padding:0px 1px;}
+.comments .pagination li a:hover{ text-decoration:underline;}
+.comments .pagination  .paginationRight{ float:right;}
+.postedby{ color:#666;}
+.postedby span{padding:0px 10px;}
+.postContent{border-bottom:1px solid #c5c5c5;}
+.contactInfo{width:269px;margin:10px 0px; padding-left:10px;}
+.logo{margin:10px 0px; }
+.contactInfo ul{ margin:0px; padding:0px; list-style:none; padding:10px 10px 10px 0px;}
+.contactInfo ul .divide{border-right:1px dotted #8d8b88; padding-left:20px;width:22px;}
+.contactInfo ul li{ float:left; line-height:15px; padding:0px 10px;background: transparent;}
+.contactInfo img{padding:3px;}
+.attachments{ padding:10px; overflow-x: hidden;}
+.attachments div{ margin:10px 0px;}
+.attachments img{padding-right:5px;}
+.moreInfo ul{padding:0 0 0 40px;margin:12px 0 12px 0;}
+.moreInfo ul li{background: transparent; list-style-image:url(/images/release-bullet.gif);padding:0;margin:0;}
+.moreInfo p{ line-height:18px;}
+.iframe{ padding:10px;}
+.floatLeft{ float:left;}
+.floatRight{ float:right;}
+.sideHeader{ background:#e0dcd4 url(/images/icon-header.gif) left no-repeat; background-position:5px; margin:0px; padding:10px 30px; text-align:left; font-size:13px; font-weight:bold;}
+.pastNews{background:#e0dcd4 url(/images/icon-header.gif) left no-repeat; background-position:5px; margin:0px; padding:10px 30px; text-align:left; font-size:13px; font-weight:bold;}
+.two .pastNews span{font-size:11px; font-weight:normal; padding-left:20px;}
+.folio .pdfFolio{border:1px solid #b2b2b2; width:108px; text-align:center;}
+.folio .pdfFolioLink{width:120px;padding-left:8px;}
+div.folio{height:50px;}
+#VideoPlayback{width:307px;height:196px;}
+.contactInfo ul li {width:180px;}
+div.footershare {padding-left:9px;color:#999999;margin-top:9px;clear:right;}
+div.footershare a{padding-right:6px!important;padding-left:6px!important;}
+.socialNetworkingLink img
+{
+  vertical-align: bottom;
+}
+.fbLike
+{
+	display:inline-block;
+	width:80px;
+}
