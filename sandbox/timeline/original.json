@@ -1,0 +1,163 @@
+{
+    "timeline":
+    {
+        "headline":"Neuromarketing: the first years",
+        "type":"default",
+		"startDate":"2000",
+		"text":"<p>Neuromarketing emerged in the early 2000s as a trending topic both in academic and business circles. This timeline shows selected moments in this young history. For the full detailed version, a forthcoming paper by <a href=\"http://www.erim.eur.nl/ERIM/People/Person_Details?p_aff_id=4321\">Clement Levallois</a>, <a href=\"http://www.erim.eur.nl/ERIM/People/Person_Details?p_aff_id=235\">Ale Smidts</a> and <a href=\"http://research.cwts.nl/converis/person/1352\">Paul Wouters</a> will be available for download here.<br>Contact, feedback: <a href=\"http://www.clementlevallois.net/contact.php\">send an email</a>.",
+		"asset":
+        {
+            "media":"img/nesshi_logo.jpg",
+            "credit":"<a href=\"http://www.nesshi.eu\">www.nesshi.eu</a>",
+            "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"http://www.nesshi.eu\">www.nesshi.eu</a>"
+        },
+        "date": [
+			{
+                "startDate":"2002,6,3",
+				"endDate":"2002,6,3",
+                "headline":"First neuromarketing company created",
+				"text":"<p>The Brighthouse Institute for Thought Science was created by Joey Reiman, a marketing consultant. Emory University was associated to this venture through the participation of an Assistant Professor, and the use of its fMRI facilities.</p>",
+                "asset":
+                {
+                    "media":"http://www.prweb.com/releases/2002/06/prweb40936.htm",
+                    "credit":"",
+                    "caption":"Press release announcing the creation of the Brighthouse Institute for Thought Sciences"
+                }
+            },
+			{
+                "startDate":"2002,10,25",
+				"endDate":"2002,10,25",
+                "headline":"An Inaugural Lecture Devoted to Neuromarketing",
+				"text":"<p>In the Netherlands, prof. Ale Smidts from Erasmus University of Rotterdam devotes his <a href=\"http://repub.eur.nl/res/pub/308/\">inaugural lecture</a> to the topic of consumer behavior and neuroscience, calling it \"neuromaketing\". Neuromarketing is also often referred to as \"consumer decision neuroscience\" in academic circles, possibly to avoid the commercial undertones of \"neuromarketing\". Today, a few academic research centres develop a focus on consumer neuroscience, such as <a href=\"http://www.erim.eur.nl/ERIM/Research/Centres/Erasmus_Centre_for_Neuroeconomics\">Erasmus University</a>, <a href=\"http://www.decisionneuroscience.net/\">INSEAD </a> in France, <a href=\"http://www.zu.de/english/chairs/marketing/team.php?navid=60\">Zeppelin University</a> in Germany or <a href=\"http://www.gsb.stanford.edu/behavioral_lab/people/faculty.html\">Stanford</a> in the US.</p>",
+                "asset":
+                {
+                    "media":"img/smidts.png",
+                    "credit":"<a href=\"http://repub.eur.nl/res/pub/308/\">Erasmus University</a>",
+                    "caption":"The full text (in Dutch, with a summary in English) of the inaugural lecture of Ale Smidts in 2002."
+                }
+            },
+			{
+                "startDate":"2003,9,1",
+				"endDate":"2003,9,1",
+                "headline":"Neuromarketing makes the cover of <i>Forbes</i>",
+				"text":"<p>After more than a year of news reporting focusing on the launch of the Brighthouse Institute for Thought Sciences in the U.S., this <i>Forbes</i> cover story will change the narrative on neuromarketing.<br>The article shows that neuromarketing studies are conducted in different countries, using a diversity of technologies, and is backed by powerful players in academia and business. The full version is <a href=\"http://www.forbes.com/forbes/2003/0901/062.html\">available online here</a>.</p>",
+                "asset":
+                {
+                    "media":"img/20030901_forbes_cover.jpg",
+                    "credit":"<a href=\"http://backissues.com/issue/Forbes-September-01-2003\">BackIssues.com",
+                    "caption":"Cover story on neuromarketing - the meaning of neuromarketing will be decisively shaped by this piece of reporting by <a href=\"https://twitter.com/#!/wellsmelanie\">Melanie Wells</a>"
+                }
+            },
+			{
+                "startDate":"2003,10,26",
+				"endDate":"2003,10,26",
+                "headline":"\"There's a Sucker Born in Every Medial Prefrontal Cortex\"",
+				"text":"<p>Soon after the cover story in <i>Forbes</i>, the New York Times Magazine run a story on neuromarketing with a memorable title. Launching a tradition, the writer of this article laid down in the fMRI of a neuromarketing company (here, the Brighthouse Institute for Thought Sciences), and shared his experiences:<br><br>\"They laid me down headfirst in the coffinlike cylinder and scurried out to the observation room. ''Here's what I want you to do,'' Meaux said, her voice crackling over an intercom. ''I'm going to show you a bunch of images of products and activities -- and I want you to picture yourself using them. Don't think about whether you like them or not. Just put yourself in the scene.''\"<br><br>This NYT piece (<a href=\"http://www.nytimes.com/2003/10/26/magazine/26BRAINS.html?pagewanted=all\">available here</a>) attracted a lot of attention on neuromarketing.</p>",
+                "asset":
+                {
+                    "media":"img/sucker.jpg",
+                    "credit":"<a href=\"http://www.nytimes.com/2003/10/26/magazine/26BRAINS.html?pagewanted=all\">New York Times</a>",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2003,12,01",
+				"endDate":"2003,12,01",
+                "headline":"Commercial Alert targets neuromarketing at Emory University",
+				"text":"<p><a href=\"http://www.commercialalert.org\">Commercial Alert</a> is an advocacy group co-founded by Ralph Nader with the mandate to \"protect communities from commercialism\". In December 2003, its Executive Director Gary Ruskin co-signed a letter with academics from prestigious universities requesting Emory University to stop performing neuromarketing activities. Faculty members from Emory University were affiliated to the Brighthouse Institute for Thought Sciences, a company founded in 2002 which rented the fMRI facilities of Emory to run brain imaging studies for client companies.<br><br>The letter sent to Emory President James Wagner was published as a press release and probably influenced the future of neuromarketing by discouraging academics to associate with commercial neuromarketing, in fear of negative publicity. Under the pressure, at least one faculty member from Emory University <a href=\"http://www.aef.com/industry/news/data/2007/7051\">ceased his association</a> with the Brighthouse Institute.</p>",
+                "asset":
+                {
+                    "media":"docs/neuromarketingrel.jpg",
+                    "credit":"<a href=\"http://www.commercialalert.org\">commercialalert.org</a>",
+                    "caption":""
+                }
+            },				
+			{
+                "startDate":"2004,7,1",
+				"endDate":"2004,7,1",
+                "headline":"Brain scam?",
+				"text":"<p>The influential scientific journal <i>Nature Neuroscience</i> publishes an editorial criticizing the lack of rigorous scientific standards (such as peer-review) in the recent neuromarketing studies and concludes with a message for the businesses that pay for the expensive services of neuromarketing firms: buyers beware!</p>",
+                "asset":
+                {
+                    "media":"img/brainscam.jpg",
+                    "credit":"<a href=\"http://www.nature.com/neuro/journal/v7/n7/full/nn0704-683.html\">Nature.com",
+                    "caption":"Nature Neuroscience warns about the poor scientific standards in neuromarketing studies."
+                }
+            },
+			{
+                "startDate":"2004,10,14",
+				"endDate":"2004,10,14",
+                "headline":"The Pepsi Challenge - in an fMRI",
+				"text":"<p><a href=\"http://www-psych.stanford.edu/~smcclure/\">Samuel McClure</a>, a young researcher in the lab of <a href=\"http://research.vtc.vt.edu/employees/read-montague/\">Read Montague</a> (pictured), authored a study on the differences of appreciation between Coke and Pepsi: brain scans reveal that branding effects can be observed in the neural activity of subjects drinking Coke.<br>This experiment received a wide media attention, and is cited more than 200 times in the scientific literature (it is <a href=\"http://psych.stanford.edu/~dnl/pdf/McClureLi2004.pdf\">available online here</a>).</p>",
+                "asset":
+                {
+                    "media":"img/20061005_montague.png",
+                    "credit":"<a href=\"http://www.nature.com/nature/journal/v443/n7111/full/443502a.html\">Nature.com",
+                    "caption":"Jokingly, Read Montague is shown with the apparatus used to deliver sips of soft drinks to the subjects while they lie in the scanners."
+                }
+            },
+			{
+                "startDate":"2008,1,14",
+				"endDate":"2008,1,14",
+                "headline":"The price of a wine influences how it tastes",
+				"text":"<p> In early 2008 <a href=\"http://www.insead.edu/facultyresearch/faculty/profiles/hplassmann/\">Hilke Plassmann</a>, then a post-doc at the California Institute of Technology, leads <a href=\"http://www.pnas.org/content/105/3/1050.full\">a study</a> which shows that varying the price of a wine influences in predictable ways the rating of this wine by consumers. While this is an effect known for long, this study shows where and how this happens in the brain: the medial orbitofrontal cortex, which combines basic sensory information with higher cognitive processes, becomes more active for more expensive wines. In contrast, brain regions where the basic sensory inputs are treated remain insensitive to price changes.</p>",
+                "asset":
+                {
+                    "media":"img/wine.jpg",
+                    "credit":"<a href=\"http://www.sciencedaily.com/releases/2008/01/080126101053.htm\">Science Daily",
+                    "caption":""
+                }
+            },
+
+			{
+                "startDate":"2007,11,11",
+				"endDate":"2007,11,11",
+                "headline":"Can neuromarketing and politics mix?",
+				"text":"<p>The presidential elections of 2008 were still a year ahead but a team of researchers from UCLA and political consultants already put Republican and Democrat voters in an fMRI scanner to observe their political preferences for the candidates to the primaries.<br>Besides some not that great results (\"Obama has work to do\"), the reports of this study published in the <i><a href=\"http://www.nytimes.com/2007/11/11/opinion/11freedman.html\">New York Times</a></i> triggered a tempete of criticisms.<br></p>",
+                "asset":
+                {
+                    "media":"img/nyt_politics.png",
+                    "credit":"<a href=\"http://www.nytimes.com\">New York Times",
+                    "caption":"This slideshow accompanied the online edition of the op-ed piece \"This is your brain on politics\"."
+                }
+            },
+			
+			{
+                "startDate":"2012,01,01",
+				"endDate":"2012,01,01",
+                "headline":"The neuromarketing industry builds up",
+				"text":"<p>The \"Neuromarketing Science and Business Association\" (NMSBA) holds its first \"Neuromarketing World Forum\" in Amsterdam<br></p>",
+                "asset":
+                {
+                    "media":"img/nmba.jpg",
+                    "credit":"<a href=\"http://www.nmsba.com/en\">nmsba</a>",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2012,02,01",
+				"endDate":"2012,02,01",
+                "headline":"Development of standards in neuromarketing",
+				"text":"<p>ESOMAR is a global association of marketing research professionals. It consulted widely since June 2011 and released in February 2012 a guide of \"36 Questions to Help Commission Neuroscience Research\"), in a sign that the advertising industry and marketing research in general have developed a long term interest for neuromarketing.<br></p>",
+                "asset":
+                {
+					"media":"img/esomar.jpg",
+                    "credit":"<a href=\"http://www.esomar.org/uploads/public/knowledge-and-standards/codes-and-guidelines/ESOMAR_36-Questions-to-help-commission-neuroscience-research.pdf\">Esomar</a>",
+                    "caption":" The report released by Esomar in February 2012"
+                }
+            },
+			{
+                "startDate":"2012,02,02",
+				"endDate":"2012,02,02",
+                "headline":"A neural predictor of cultural popularity",
+				"text":"<p>A study by Gregory Berns and Sara Moore published in the <a href=\"http://www.sciencedirect.com/science/article/pii/S1057740811000532\">Journal of Consumer Psychology</a> comes to this result (quote from the abstract):<br>\"As a measure of popularity, the sales of these songs were totaled for the three years following scanning, and brain responses were then correlated with these \"future\" earnings. Although subjective likability of the songs was not predictive of sales, activity within the ventral striatum was significantly correlated with the number of units sold. <br>These results suggest that the neural responses to goods are not only predictive of purchase decisions for those individuals actually scanned, but such responses generalize to the population at large and may be used to predict cultural popularity.\"<br></p>",
+                "asset":
+                {
+					"media":"img/berns_moore.jpg",
+                    "credit":"<a href=\"http://www.sciencedirect.com/science/article/pii/S1057740811000532\">Journal of Consumer Psychology</a>",
+                    "caption":"The log of the number of units sold of a song was significantly correlated with the average nucleus accumbens activation during the listening of the song"
+                }
+            }
+			]
+	}
+}

@@ -1,0 +1,99 @@
+<HTML>
+<HEAD>
+<TITLE>Using circos to represent a "circle of influence" (co-author network)</TITLE>
+</HEAD>
+<BODY>
+
+<style type="text/css">
+body{
+background-color:#faf8cb;
+margin-left:50;
+font-family:Verdana, Times, serif;
+font-size:80%
+}
+picture
+{
+    display: inline-block;
+    width: 700px;
+    vertical-align: top;
+}
+
+section
+{
+    display: inline-block;
+    width: 600px;    
+    vertical-align: top;
+}
+
+</style>
+<DIV ALIGN="center"><H1>Using Circos to trace the "circle of influence" of a scientist</H1></p></DIV>
+
+<br>
+<br>
+<br>
+<picture>
+<p><img src="img/pic_1.png" alt="pic 1"/><br><br>
+<i>Presentation of the visualization at the <a href="http://www.rsm.nl/about-rsm/news/detail/2736-royal-distinction-and-research-honour-for-founding-father-of-rsm/">farewell symposium</a> in honor of Pr. van den Bosch</i></p>
+</picture>
+
+
+
+<section>
+
+<br>
+<br>
+<p><b>What</b>:<br>This is an evening project at the occasion of a symposium honoring <a href="http://www.rsm.nl/people/frans-a-j-van-den-bosch/">Pr. Frans van den Bosch</a>, a professor at my university
+<br>
+<br>
+It shows all the co-authors of the professor, with the tickness of links corresponding to the number of co-authored publications</p>
+<br>
+<br>
+<p><b>Visualization tool</b>:<br><a href="http:www.circos.ca"target="blank">circos</a></p>
+<p><b>Data source</b>:<br><a href="http://repub.eur.nl/res/aut/247/">all the publications</a> of the professor in a bibTex file</p>
+<p><b>Processing</b>:<br>I used Java to parse the bibTex file and generate the Circos configuration file. I implemented the possibility to select the publications restricted to a range of years</p> 
+<p><b>Impressions</b>:<br>Circos makes indeed impactful visualizations. It is a real pain to configure (15+ config files, anybody?), but has an incredibly helpful debugger</p>
+<p><b>Source code</b>:<br><a href="https://github.com/seinecle/Biblos">Github repository</a> (the code is quite ugly as this was for a single night project!)<p>
+<p><b>Higher res picture of the circle</b>:<br><a href="img/circos_2000-2012.png">Click here</a> for a better quality picture.<p>
+
+</section>
+<br>
+<br>
+<p><i>I'm Clement Levallois, and you can see my other projects here: <a href="http://www.clementlevallois.net">clementlevallois.net</a></i></p>
+
+<!-- Start of StatCounter Code -->
+
+<script type="text/javascript">
+var sc_project=4124187; 
+var sc_invisible=1; 
+var sc_security="61bf0883"; 
+</script>
+
+<script type="text/javascript"
+src="http://www.statcounter.com/counter/counter.js"></script><noscript><div
+class="statcounter"><a title="joomla analytics"
+href="http://statcounter.com/joomla/" target="_blank"><img
+class="statcounter"
+src="http://c.statcounter.com/4124187/0/61bf0883/1/"
+alt="joomla analytics" ></a></div></noscript>
+
+<!-- End of StatCounter Code -->
+
+<!-- Start of Google analytics -->
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29345603-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<!-- End of Google analytics -->
+</BODY>
+</HTML>
