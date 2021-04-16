@@ -5,7 +5,6 @@
     <base uri="https://clementlevallois.net/remote/plugin-test-1.0" path="${user.home}/nocode-app/plugins/"/>
     <properties>
         <property key="app.name" value="Nocode App"/>
-        <property key="app.dir" value="${user.home}/nocode-app/plugins/"/>
     </properties>
     <files>
         <file path="plugin-test-1.0/xmlgraphics-commons-2.6.jar" size="674607" checksum="c96ff6b5" ignoreBootConflict="true"/>
