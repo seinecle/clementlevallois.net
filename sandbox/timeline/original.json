@@ -8,7 +8,7 @@
 		"asset":
         {
             "media":"img/nesshi_logo.jpg",
-            "credit":"<a href=\"https://www.nwo.nl/en/projects/464-10-029">www.nesshi.eu</a>",
+            "credit":"<a href=\"https://www.nwo.nl/en/projects/464-10-029\">www.nesshi.eu</a>",
             "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"https://www.nwo.nl/en/projects/464-10-029\">www.nesshi.eu</a>"
         },
         "date": [
@@ -28,7 +28,7 @@
                 "startDate":"2002,10,25",
 				"endDate":"2002,10,25",
                 "headline":"An Inaugural Lecture Devoted to Neuromarketing",
-				"text":"<p>In the Netherlands, prof. Ale Smidts from Erasmus University of Rotterdam devotes his <a href=\"http://repub.eur.nl/res/pub/308/\">inaugural lecture</a> to the topic of consumer behavior and neuroscience, calling it \"neuromaketing\". Neuromarketing is also often referred to as \"consumer decision neuroscience\" in academic circles, possibly to avoid the commercial undertones of \"neuromarketing\". Today, a few academic research centres develop a focus on consumer neuroscience, such as <a href=\"https://www.erim.eur.nl/neuroeconomics/\">Erasmus University</a>, <a href=\"https://faculty.insead.edu/hilke-plassmann/\">INSEAD </a> in France, <a href=\"https://www.marketing.hhu.de/en/our-research>HHU</a> in Germany or <a href=\"http://plattlabs.rocks/\">Wharton</a> in the US.</p>",
+				"text":"<p>In the Netherlands, prof. Ale Smidts from Erasmus University of Rotterdam devotes his <a href=\"http://repub.eur.nl/res/pub/308/\">inaugural lecture</a> to the topic of consumer behavior and neuroscience, calling it \"neuromaketing\". Neuromarketing is also often referred to as \"consumer decision neuroscience\" in academic circles, possibly to avoid the commercial undertones of \"neuromarketing\". Today, a few academic research centres develop a focus on consumer neuroscience, such as <a href=\"https://www.erim.eur.nl/neuroeconomics/\">Erasmus University</a>, <a href=\"https://faculty.insead.edu/hilke-plassmann/\">INSEAD</a> in France, <a href=\"https://www.marketing.hhu.de/en/our-research\">HHU</a> in Germany or <a href=\"http://plattlabs.rocks/\">Wharton</a> in the US.</p>",
                 "asset":
                 {
                     "media":"img/smidts.png",
@@ -100,7 +100,7 @@
                 "startDate":"2008,1,14",
 				"endDate":"2008,1,14",
                 "headline":"The price of a wine influences how it tastes",
-				"text":"<p> In early 2008 <a href=\"http://www.insead.edu/facultyresearch/faculty/profiles/hplassmann/\">Hilke Plassmann</a>, then a post-doc at the California Institute of Technology, leads <a href=\"http://www.pnas.org/content/105/3/1050.full\">a study</a> which shows that varying the price of a wine influences in predictable ways the rating of this wine by consumers. While this is an effect known for long, this study shows where and how this happens in the brain: the medial orbitofrontal cortex, which combines basic sensory information with higher cognitive processes, becomes more active for more expensive wines. In contrast, brain regions where the basic sensory inputs are treated remain insensitive to price changes.</p>",
+				"text":"<p> In early 2008 <a href=\"https://www.insead.edu/faculty-research/faculty/hilke-plassmann\">Hilke Plassmann</a>, then a post-doc at the California Institute of Technology, leads <a href=\"http://www.pnas.org/content/105/3/1050.full\">a study</a> which shows that varying the price of a wine influences in predictable ways the rating of this wine by consumers. While this is an effect known for long, this study shows where and how this happens in the brain: the medial orbitofrontal cortex, which combines basic sensory information with higher cognitive processes, becomes more active for more expensive wines. In contrast, brain regions where the basic sensory inputs are treated remain insensitive to price changes.</p>",
                 "asset":
                 {
                     "media":"img/wine.jpg",
