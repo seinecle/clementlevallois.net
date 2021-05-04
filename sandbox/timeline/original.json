@@ -4,12 +4,12 @@
         "headline":"Neuromarketing: the first years",
         "type":"default",
 		"startDate":"2000",
-		"text":"<p>Neuromarketing emerged in the early 2000s as a trending topic both in academic and business circles. This timeline shows selected moments in this young history. For the full detailed version, a forthcoming paper by <a href=\"http://www.erim.eur.nl/ERIM/People/Person_Details?p_aff_id=4321\">Clement Levallois</a>, <a href=\"http://www.erim.eur.nl/ERIM/People/Person_Details?p_aff_id=235\">Ale Smidts</a> and <a href=\"http://research.cwts.nl/converis/person/1352\">Paul Wouters</a> will be available for download here.<br>Contact, feedback: <a href=\"http://www.clementlevallois.net/contact.php\">send an email</a>.",
+		"text":"<p>Neuromarketing emerged in the early 2000s as a trending topic both in academic and business circles. This timeline shows selected moments in this young history. For the full detailed version, see <a href=\"https://clementlevallois.net/download/Levallois_Smidts_Wouters_2019_history_neuromarketing_preprint.pdf\" target="_blank">this paper</a> by <a href=\"https://clementlevallois.net\">Clement Levallois</a>, <a href=\"https://www.erim.eur.nl/people/ale-smidts/\">Ale Smidts</a> and <a href=\"https://www.cwts.nl/people/PaulWouters\">Paul Wouters</a> will be available for download here.<br>Contact, feedback: <a href=\"https://clementlevallois.net\">send an email</a>.",
 		"asset":
         {
             "media":"img/nesshi_logo.jpg",
-            "credit":"<a href=\"http://www.nesshi.eu\">www.nesshi.eu</a>",
-            "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"http://www.nesshi.eu\">www.nesshi.eu</a>"
+            "credit":"<a href=\"https://www.nwo.nl/en/projects/464-10-029">www.nesshi.eu</a>",
+            "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"https://www.nwo.nl/en/projects/464-10-029\">www.nesshi.eu</a>"
         },
         "date": [
 			{
@@ -19,7 +19,7 @@
 				"text":"<p>The Brighthouse Institute for Thought Science was created by Joey Reiman, a marketing consultant. Emory University was associated to this venture through the participation of an Assistant Professor, and the use of its fMRI facilities.</p>",
                 "asset":
                 {
-                    "media":"http://www.prweb.com/releases/2002/06/prweb40936.htm",
+                    "media":"https://web.archive.org/web/20080908064648/http://www.prweb.com/releases/2002/6/prweb40936.htm",
                     "credit":"",
                     "caption":"Press release announcing the creation of the Brighthouse Institute for Thought Sciences"
                 }
@@ -28,7 +28,7 @@
                 "startDate":"2002,10,25",
 				"endDate":"2002,10,25",
                 "headline":"An Inaugural Lecture Devoted to Neuromarketing",
-				"text":"<p>In the Netherlands, prof. Ale Smidts from Erasmus University of Rotterdam devotes his <a href=\"http://repub.eur.nl/res/pub/308/\">inaugural lecture</a> to the topic of consumer behavior and neuroscience, calling it \"neuromaketing\". Neuromarketing is also often referred to as \"consumer decision neuroscience\" in academic circles, possibly to avoid the commercial undertones of \"neuromarketing\". Today, a few academic research centres develop a focus on consumer neuroscience, such as <a href=\"http://www.erim.eur.nl/ERIM/Research/Centres/Erasmus_Centre_for_Neuroeconomics\">Erasmus University</a>, <a href=\"http://www.decisionneuroscience.net/\">INSEAD </a> in France, <a href=\"http://www.zu.de/english/chairs/marketing/team.php?navid=60\">Zeppelin University</a> in Germany or <a href=\"http://www.gsb.stanford.edu/behavioral_lab/people/faculty.html\">Stanford</a> in the US.</p>",
+				"text":"<p>In the Netherlands, prof. Ale Smidts from Erasmus University of Rotterdam devotes his <a href=\"http://repub.eur.nl/res/pub/308/\">inaugural lecture</a> to the topic of consumer behavior and neuroscience, calling it \"neuromaketing\". Neuromarketing is also often referred to as \"consumer decision neuroscience\" in academic circles, possibly to avoid the commercial undertones of \"neuromarketing\". Today, a few academic research centres develop a focus on consumer neuroscience, such as <a href=\"https://www.erim.eur.nl/neuroeconomics/\">Erasmus University</a>, <a href=\"https://faculty.insead.edu/hilke-plassmann/\">INSEAD </a> in France, <a href=\"https://www.marketing.hhu.de/en/our-research>HHU</a> in Germany or <a href=\"http://plattlabs.rocks/\">Wharton</a> in the US.</p>",
                 "asset":
                 {
                     "media":"img/smidts.png",
@@ -142,7 +142,7 @@
                 "asset":
                 {
 					"media":"img/esomar.jpg",
-                    "credit":"<a href=\"http://www.esomar.org/uploads/public/knowledge-and-standards/codes-and-guidelines/ESOMAR_36-Questions-to-help-commission-neuroscience-research.pdf\">Esomar</a>",
+                    "credit":"<a href=\"https://www.esomar.org/uploads/public/knowledge-and-standards/codes-and-guidelines/ESOMAR_36-Questions-to-help-commission-neuroscience-research.pdf\">Esomar</a>",
                     "caption":" The report released by Esomar in February 2012"
                 }
             },
