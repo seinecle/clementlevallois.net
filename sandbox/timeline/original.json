@@ -4,12 +4,12 @@
         "headline":"Neuromarketing: the first years",
         "type":"default",
 		"startDate":"2000",
-		"text":"<p>Neuromarketing emerged in the early 2000s as a trending topic both in academic and business circles. This timeline shows selected moments in this young history. For the full detailed version, see <a href=\"https://clementlevallois.net/download/Levallois_Smidts_Wouters_2019_history_neuromarketing_preprint.pdf\" target=\"_blank\">this paper</a> by <a href=\"https://clementlevallois.net\">Clement Levallois</a>, <a href=\"https://www.erim.eur.nl/people/ale-smidts/\">Ale Smidts</a> and <a href=\"https://www.cwts.nl/people/PaulWouters\">Paul Wouters</a> will be available for download here.<br>Contact, feedback: <a href=\"https://clementlevallois.net\">send an email</a>.",
+		"text":"<p>Neuromarketing emerged in the early 2000s as a trending topic both in academic and business circles. This timeline shows selected moments in this young history. For the full detailed version, see <a href=\"https://clementlevallois.net/download/Levallois_Smidts_Wouters_2019_history_neuromarketing_preprint.pdf\" target=\"_blank\">this article published in the <i>Business History</i> Journal</a> by <a href=\"https://clementlevallois.net\">Clement Levallois</a>, <a href=\"https://www.erim.eur.nl/people/ale-smidts/\">Ale Smidts</a> and <a href=\"https://www.cwts.nl/people/PaulWouters\">Paul Wouters</a>.<br>Contact, feedback: <a href=\"https://clementlevallois.net\">send an email</a>.",
 		"asset":
         {
             "media":"img/nesshi_logo.jpg",
-            "credit":"<a href=\"https://www.nwo.nl/en/projects/464-10-029\">www.nesshi.eu</a>",
-            "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"https://www.nwo.nl/en/projects/464-10-029\">www.nesshi.eu</a>"
+            "credit":"<a href=\"https://www.nwo.nl/en/projects/464-10-029\" target=\"_blank\">nesshi.eu</a>",
+            "caption":"This timeline is a project by members of the NESSHI initiative. NESSHI was launched in 2011 to study the neuro-turn in the social sciences and humanities: how did neuroscientific concepts changed economics, marketing and philosophy? To learn more about NESSHI, visit <a href=\"https://www.nwo.nl/en/projects/464-10-029\" target=\"_blank\">nesshi.eu</a>"
         },
         "date": [
 			{
@@ -64,7 +64,7 @@
                 "startDate":"2003,12,01",
 				"endDate":"2003,12,01",
                 "headline":"Commercial Alert targets neuromarketing at Emory University",
-				"text":"<p><a href=\"http://www.commercialalert.org\">Commercial Alert</a> is an advocacy group co-founded by Ralph Nader with the mandate to \"protect communities from commercialism\". In December 2003, its Executive Director Gary Ruskin co-signed a letter with academics from prestigious universities requesting Emory University to stop performing neuromarketing activities. Faculty members from Emory University were affiliated to the Brighthouse Institute for Thought Sciences, a company founded in 2002 which rented the fMRI facilities of Emory to run brain imaging studies for client companies.<br><br>The letter sent to Emory President James Wagner was published as a press release and probably influenced the future of neuromarketing by discouraging academics to associate with commercial neuromarketing, in fear of negative publicity. Under the pressure, at least one faculty member from Emory University <a href=\"http://www.aef.com/industry/news/data/2007/7051\">ceased his association</a> with the Brighthouse Institute.</p>",
+				"text":"<p><a href=\"http://www.commercialalert.org\">Commercial Alert</a> is an advocacy group co-founded by Ralph Nader with the mandate to \"protect communities from commercialism\". In December 2003, its Executive Director Gary Ruskin co-signed a letter with academics from prestigious universities requesting Emory University to stop performing neuromarketing activities. Faculty members from Emory University were affiliated to the Brighthouse Institute for Thought Sciences, a company founded in 2002 which rented the fMRI facilities of Emory to run brain imaging studies for client companies.<br><br>The letter sent to Emory President James Wagner was published as a press release and probably influenced the future of neuromarketing by discouraging academics to associate with commercial neuromarketing, in fear of negative publicity. Under the pressure, at least one faculty member from Emory University <a href=\"https://web.archive.org/web/20071212204009/https://aef.com/industry/news/data/2007/7051\">ceased his association</a> with the Brighthouse Institute.</p>",
                 "asset":
                 {
                     "media":"docs/neuromarketingrel.jpg",
@@ -88,7 +88,7 @@
                 "startDate":"2004,10,14",
 				"endDate":"2004,10,14",
                 "headline":"The Pepsi Challenge - in an fMRI",
-				"text":"<p><a href=\"http://www-psych.stanford.edu/~smcclure/\">Samuel McClure</a>, a young researcher in the lab of <a href=\"http://research.vtc.vt.edu/employees/read-montague/\">Read Montague</a> (pictured), authored a study on the differences of appreciation between Coke and Pepsi: brain scans reveal that branding effects can be observed in the neural activity of subjects drinking Coke.<br>This experiment received a wide media attention, and is cited more than 200 times in the scientific literature (it is <a href=\"http://psych.stanford.edu/~dnl/pdf/McClureLi2004.pdf\">available online here</a>).</p>",
+				"text":"<p><a href=\"https://scholar.google.com/citations?user=s2R11aIAAAAJ&hl=en\">Samuel McClure</a>, a young researcher in the lab of <a href=\"https://en.wikipedia.org/wiki/Read_Montague\">Read Montague</a> (pictured), authored a study on the differences of appreciation between Coke and Pepsi: brain scans reveal that branding effects can be observed in the neural activity of subjects drinking Coke.<br>This experiment received a wide media attention, and is cited more than 200 times in the scientific literature (it is <a href=\"https://doi-org.ezp.em-lyon.com/10.1016/j.neuron.2004.09.019\">available online here</a>).</p>",
                 "asset":
                 {
                     "media":"img/20061005_montague.png",
@@ -130,7 +130,7 @@
                 "asset":
                 {
                     "media":"img/nmba.jpg",
-                    "credit":"<a href=\"http://www.nmsba.com/en\">nmsba</a>",
+                    "credit":"<a href=\"http://www.nmsba.com\">nmsba</a>",
                     "caption":""
                 }
             },
