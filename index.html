@@ -1,9 +1,11 @@
-<!DOCTYPE html lang="en">
+<!DOCTYPE html>
+<html lang="en">
 <head>
   <title>Clément Levallois - academic - Gephi specialist - Java developer</title>
   <meta name="description" content="Clément Levallois's website" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta http-equiv="cleartype" content="on" />
+  <meta charset="UTF-8">
   <meta name="HandheldFriendly" content="true" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <style>
@@ -25,6 +27,18 @@
     .animating {
       transition: height 0.3s ease;
     }
+	
+	.visually-hidden {
+	  position: absolute;
+	  width: 1px;
+	  height: 1px;
+	  padding: 0;
+	  margin: -1px;
+	  overflow: hidden;
+	  clip: rect(0, 0, 0, 0);
+	  white-space: nowrap;
+	  border: 0;
+	}
   </style>
 </head>
 <body>
@@ -35,7 +49,8 @@
   </header>
   <main>
     <section>
-      <details>
+		<h2 class="visually-hidden">academic</h2>
+		<details>
         <summary>academic</summary>
         <div class="details-content">
           <ul>
@@ -48,7 +63,8 @@
       </details>
     </section>
     <section>
-      <details>
+		<h2 class="visually-hidden">gephi specialist</h2>
+		<details>
         <summary>gephi specialist</summary>
         <div class="details-content">
           <ul>
@@ -64,7 +80,8 @@
       </details>
     </section>
     <section>
-      <details>
+		<h2 class="visually-hidden">java and web developer</h2>
+		<details>
         <summary>java and web developer</summary>
         <div class="details-content">
           <ul>
@@ -76,6 +93,7 @@
       </details>
     </section>
     <section>
+				<h2 class="visually-hidden">trend spotter on the impact of data and generative AI</h2>
       <details>
         <summary>trend spotter on the impact of data and generative AI</summary>
         <div class="details-content">
@@ -91,6 +109,7 @@
     </section>
   </main>
   <footer>
+	<h2 class="visually-hidden">contact</h2>
     <details>
       <summary>contact</summary>
       <div class="details-content">
