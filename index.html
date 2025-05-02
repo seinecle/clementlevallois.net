@@ -35,14 +35,25 @@
 	  white-space: nowrap;
 	  border: 0;
 	}
+	
+	.sticky-controls {
+	  position: sticky;
+	  top: 0;
+	  background: white;
+	  padding: 0.5rem 0;
+	  z-index: 1000;
+	  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+	}
   </style>
 </head>
 <body>
   <header style="margin-bottom: 2rem;">
     <h1>Clément Levallois</h1>
-	🔽 <a href="#" onclick="expandAll(); return false;">expand</a>
-	▶️ <a href="#" onclick="collapseAll(); return false;">collapse</a>
   </header>
+	<div class="sticky-controls">
+	🔽 <a href="#" onclick="expandAll(); return false;">Expand All</a> |
+	▶️ <a href="#" onclick="collapseAll(); return false;">Collapse All</a>
+	</div>
   <main>
     <section>
 		<h2 class="visually-hidden">academic</h2>
@@ -66,8 +77,8 @@
           <ul>
             <li>since 2011</li>
             <li>developer of <a href="https://gephi.org/plugins/#/browse/search/levallois">8 plugins</a> for gephi</li>
-            <li>proficient in software development with the <a href="https://github.com/gephi/gephi-toolkit">gephi toolkit</a></li>
-            <li>academic papers on networks with gephi: <a href="https://shs.cairn.info/journal-management-2020-1-page-4?lang=en">social</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12232">geographical</a>, <a href="https://www.nature.com/articles/nrn3354">semantic</a>, <a href="https://www.risk.net/journal-of-network-theory-in-finance/2462066/dynamic-visualization-of-large-financial-networks">financial</a>, <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2016.00336/full">bibliometric</a></li>
+            <li>proficient with the <a href="https://github.com/gephi/gephi-toolkit">gephi toolkit</a></li>
+            <li>academic studies on networks with gephi: <a href="https://shs.cairn.info/journal-management-2020-1-page-4?lang=en">social</a>, <a href="https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.12232">geographical</a>, <a href="https://www.nature.com/articles/nrn3354">semantic</a>, <a href="https://www.risk.net/journal-of-network-theory-in-finance/2462066/dynamic-visualization-of-large-financial-networks">financial</a>, <a href="https://www.frontiersin.org/journals/human-neuroscience/articles/10.3389/fnhum.2016.00336/full">bibliometric</a></li>
             <li>author of online gephi <a href="https://seinecle.github.io/gephi-tutorials/">tutorials</a></li>
             <li>trainer in gephi for individuals and groups</li>
             <li>closely connected with the broader community (vosviewer, nodexl, #dataviz, #osint, #digitalhumanities, etc.)</li>
