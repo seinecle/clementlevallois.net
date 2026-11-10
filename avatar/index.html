@@ -17,7 +17,7 @@
 
     <p>These are research prototypes, not a product. I'm sharing them to exchange ideas with people who are innovating in education. I'd love to hear your thoughts: <a href="mailto:clementlevallois@protonmail.com">clementlevallois@protonmail.com</a>.</p>
 
-    <h2>Three Iterations of the Prototype</h2>
+    <h2>Four Iterations of the Prototype</h2>
     <ul>
       <li>
         <p>1️⃣ Nov 7, 2026. <a href="https://avatar.clementlevallois.net/">Video loop, lipsync</a>.
@@ -40,6 +40,15 @@
         I dropped the filmed video approach. The new approach relies on <a href="https://github.com/Soul-AILab/SoulX-FlashHead">SoulX-FlashHead</a>, a model released in 2026 that takes the image of a portrait as a starting point, and then animates it according to the incoming stream of audio input.<br>
 		✅ This prototype works<br>
 		🎉 Audio and animation feel natural. Students can ask questions and the latency for the response is very short. In English or French.
+		</p>
+      </li>
+      <li>
+	  <p>
+	  4️⃣ Nov 10, 2026. <a href="https://avatar-fable-52.clementlevallois.net/course">Lips animated in the student's browser</a>.
+        SoulX-FlashHead is kept for what can be prepared in advance: the narration and a short loop of the avatar's head. For live answers, a small model trained on these renders redraws the mouth directly in the student's browser, from the sound of the answer. No GPU server is needed when a student asks a question.<br>
+		✅ This prototype works<br>
+		🎉 No GPU to start or to pay for when a question is asked: the avatar is animated from the very first answer, for any number of students at once.<br>
+		😐 Head movements come from a pre-rendered loop, so they don't follow what is being said, and the lips don't always close fully. Not tested on phones yet.
 		</p>
       </li>
     </ul>
